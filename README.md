@@ -39,9 +39,9 @@ I'm a Data Enthusiast with a passion for Data Engineering. I enjoy working on pr
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BibekPoudel99&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BibekPoudel99&layout=compact&theme=radical)
 
 ## Recent Projects
 
@@ -51,6 +51,6 @@ I'm a Data Enthusiast with a passion for Data Engineering. I enjoy working on pr
 
 ## Support Me
 
-If you like my work, consider buying me a coffee!
+If you like my work, consider giving a star ⭐!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+
