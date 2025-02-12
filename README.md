@@ -1,6 +1,6 @@
 # Hi there, I'm Bibek! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=BibekPoudel99&color=blue)
 
 ## About Me
 
