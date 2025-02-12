@@ -4,13 +4,12 @@
 
 ## About Me
 
-I'm a Data Enthusiast with a passion for Data Engineering. I enjoy working on projects involving [Technologies or Topics of Interest].
+I'm a Data Enthusiast with a passion for Data Engineering. I enjoy working on projects involving building pipelines and infrastructure for data.
 
-- 🔭 I’m currently working on [Your Current Project].
-- 🌱 I’m currently learning [New Skills or Technologies].
-- 💬 Ask me about [Topics You're Knowledgeable About].
-- 📫 How to reach me: [Your Contact Information].
-- ⚡ Fun fact: [An Interesting Fact About You].
+- 🔭 I’m currently working on python driven projects.
+- 🌱 I’m currently learning new skills on data engineering.
+- 📫 Reach out to me through my Gmail - poudelbibek86@gmail.com .
+- ⚡ Fun fact: Weather up here is nice 😄
 
 ## My Skill Set
 
