@@ -44,6 +44,11 @@ I'm a Data Enthusiast with a passion for Data Engineering. I enjoy working on pr
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
+## Recent Projects
+
+- [Project Name](https://github.com/yourusername/project-repo): A brief description of your project.
+- [Project Name](https://github.com/yourusername/project-repo): A brief description of your project.
+- [Project Name](https://github.com/yourusername/project-repo): A brief description of your project.
 
 ## Support Me
 
