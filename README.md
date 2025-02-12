@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a  with a passion for [Your Interests]. I enjoy working on projects involving [Technologies or Topics of Interest].
+I'm a Data Enthusiast with a passion for Data Engineering. I enjoy working on projects involving [Technologies or Topics of Interest].
 
 - 🔭 I’m currently working on [Your Current Project].
 - 🌱 I’m currently learning [New Skills or Technologies].
@@ -44,17 +44,6 @@ I'm a  with a passion for [Your Interests]. I enjoy working on projects involvin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## Recent Projects
-
-- [Project Name](https://github.com/yourusername/project-repo): A brief description of your project.
-- [Project Name](https://github.com/yourusername/project-repo): A brief description of your project.
-- [Project Name](https://github.com/yourusername/project-repo): A brief description of your project.
-
-## Blog Posts
-
-- [Title of Blog Post](https://yourblog.com/post-url)
-- [Title of Blog Post](https://yourblog.com/post-url)
-- [Title of Blog Post](https://yourblog.com/post-url)
 
 ## Support Me
 
