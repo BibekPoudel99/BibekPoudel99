@@ -28,7 +28,7 @@ I'm a Data Enthusiast with a passion for Data Engineering. I enjoy working on pr
 
 ## Recent Projects
 
-- [Stock_Visualization](https://github.com/BibekPoudel99/Stock_Visualizaion): It's a real time visualization of stocks which updates every minutes. It is built by using python and matplot library and alphavantage api key.
+- [Stock_Visualization](https://github.com/BibekPoudel99/Stock_Visualization): It's a real time visualization of stocks which updates every minutes. It is built by using python and matplot library and alphavantage api key.
 - [REST_API](https://github.com/yourusername/project-repo): A brief description of your project.
 
 ### Tools
