@@ -6,10 +6,9 @@
 
 I'm a Data Enthusiast with a passion for Data Engineering. I enjoy working on projects involving building pipelines and infrastructure for data.
 
-- 🔭 I’m currently working on python driven projects.
-- 🌱 I’m currently learning new skills on data engineering.
-- 📫 Reach out to me through my Gmail - poudelbibek86@gmail.com .
-- ⚡ Fun fact: Weather up here is nice 😄
+-  I’m working on python driven projects.
+-  I’m currently learning new skills on data engineering.
+-  Reach out to me through my Gmail - poudelbibek86@gmail.com .
 
 ## My Skill Set
 
