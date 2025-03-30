@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a Data Enthusiast with a passion for Data Engineering. I enjoy working on projects involving building pipelines and infrastructure for data.
+I'm a Data Enthusiast with a passion for Data Engineering and backend development. I enjoy working on projects involving building pipelines and infrastructure for data.
 
 -  I’m working on python driven projects.
 -  I’m currently learning new skills on data engineering.
