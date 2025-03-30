@@ -30,6 +30,7 @@ I'm a Data Enthusiast with a passion for Data Engineering and backend developmen
 - [Stock_Visualization](https://github.com/BibekPoudel99/Stock_Visualization): It's a real time visualization of stocks which updates every minutes. It is built by using python and matplot library and alphavantage api key.
 - [REST_API](https://github.com/BibekPoudel99/Rest_API): This project is a REST API built with Express.js a framework of NodeJS and MongoDB, featuring user authentication using JWT (JSON Web Tokens).
 - [My_own_shell](https://github.com/BibekPoudel99/My_own_shell): This project is about building my own posix complaint shell that's capable of interpreting shell commands, running external programs and various built-in commands.
+- [Airbnb Data analysis](https://github.com/BibekPoudel99/NYC_Airbnb_Analysis): A descriptive data analysis from the NYC Airbnb dataset.
 
 ### Tools
 
