@@ -4,10 +4,10 @@
 
 ## About Me
 
-I'm a Data Enthusiast with a passion for Data Engineering and backend development. I enjoy working on projects involving building pipelines and infrastructure for data.
+I'm a Data Enthusiast with a passion for Data driven fields and backend development. I enjoy working on projects involving building pipelines and infrastructure for data.
 
 -  I’m working on python driven projects.
--  I’m currently learning new skills on data engineering.
+-  I’m currently learning new skills on data engineering and other related topics to grow my career.
 -  Reach out to me through my Gmail - poudelbibek86@gmail.com .
 
 ## My Skill Set
@@ -41,7 +41,7 @@ I'm a Data Enthusiast with a passion for Data Engineering and backend developmen
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibek-poudel-b86a1a306/)
 
-[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)
+[![Personal Website in progress](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)
 
 ## GitHub Stats
 
