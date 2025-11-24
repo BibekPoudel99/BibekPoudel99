@@ -27,7 +27,7 @@ I'm a Data Enthusiast with a passion for Data driven fields and backend developm
 
 ## Recent Projects
 
-- [Movie_recommendation_system](https://github.com/BibekPoudel99/Movie_recommendation_system)
+- [Movie_recommendation_system](https://github.com/BibekPoudel99/Movie_recommendation_system): A content-based movie recommendation system built with Python, Pandas, Scikit-learn, NLTK for natural language processing, and Streamlit for web interface, utilizing cosine similarity on movie metadata to suggest personalized film recommendations.
 - [Stock_Visualization](https://github.com/BibekPoudel99/Stock_Visualization): It's a real time visualization of stocks which updates every minutes. It is built by using python and matplot library and alphavantage api key.
 - [REST_API](https://github.com/BibekPoudel99/Rest_API): This project is a REST API built with Express.js a framework of NodeJS and MongoDB, featuring user authentication using JWT (JSON Web Tokens).
 - [My_own_shell](https://github.com/BibekPoudel99/My_own_shell): This project is about building my own posix complaint shell that's capable of interpreting shell commands, running external programs and various built-in commands.
