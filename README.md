@@ -8,7 +8,7 @@ I'm a Data Enthusiast with a passion for Data driven fields and backend developm
 
 -  I’m working on python driven projects.
 -  I’m currently learning new skills on data engineering and other related topics to grow my career.
--  Reach out to me through my Gmail - poudelbibek86@gmail.com .
+-  Reach out to me through my Gmail - bibekpoudel2025@outlook.com .
 
 ## My Skill Set
 
