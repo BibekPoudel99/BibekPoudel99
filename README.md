@@ -8,7 +8,7 @@ I'm a Data Enthusiast with a passion for Data driven fields and backend developm
 
 -  I’m working on python driven projects.
 -  I’m currently learning new skills on data engineering and other related topics to grow my career.
--  Reach out to me through my Gmail - bibekpoudel2025@outlook.com .
+-  Reach out to me through my outlook - bibekpoudel2025@outlook.com .
 
 ## My Skill Set
 
@@ -24,6 +24,8 @@ I'm a Data Enthusiast with a passion for Data driven fields and backend developm
 ### Frameworks and Libraries
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
 
 ## Recent Projects
 
