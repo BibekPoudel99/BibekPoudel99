@@ -28,14 +28,13 @@ I am a passionate Data Enthusiast with a strong interest in data-driven fields a
 
 ## Recent Projects
 
-
+-- [Tomato disease classification](https://github.com/BibekPoudel99/Tomato_Disease_Detection):An intelligent, production-ready machine learning system for detecting and classifying tomato plant diseases using deep learning and advanced image processing. 
 - [FastAPI](https://github.com/BibekPoudel99/fastapi):  A RESTful backend API built with FastAPI for managing users, posts, authentication, and voting.
 Uses Pydantic for validation, JWT Authentication, Alembic for database migration, and ORM-based database access.
 - [Movie_recommendation_system](https://github.com/BibekPoudel99/Movie_recommendation_system): A content-based movie recommendation system built with Python, Pandas, Scikit-learn, NLTK for natural language processing, and Streamlit for web interface, utilizing cosine similarity on movie metadata to suggest personalized film recommendations.
-- [Stock_Visualization](https://github.com/BibekPoudel99/Stock_Visualization): It's a real time visualization of stocks which updates every minutes. It is built by using python and matplot library and alphavantage api key.
+- [Task Management System](https://github.com/BibekPoudel99/task_mgmt_project): A full-stack web application featuring task creation, assignment, deadline tracking, and user authentication backed by a relational MySQL database. Can also collaborate on a project across members.
 - [REST_API](https://github.com/BibekPoudel99/Rest_API): This project is a REST API built with Express.js a framework of NodeJS and MongoDB, featuring user authentication using JWT (JSON Web Tokens).
 - [My_own_shell](https://github.com/BibekPoudel99/My_own_shell): This project is about building my own posix complaint shell that's capable of interpreting shell commands, running external programs and various built-in commands.
-- [Airbnb Data analysis](https://github.com/BibekPoudel99/NYC_Airbnb_Analysis): A descriptive data analysis from the NYC Airbnb dataset.
 
 ### Tools
 
