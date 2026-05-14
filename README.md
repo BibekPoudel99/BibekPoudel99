@@ -28,6 +28,7 @@ I am a passionate Data Enthusiast with a strong interest in data-driven fields a
 
 ## Recent Projects
 
+- [City Traffic ETL pipeline](https://github.com/BibekPoudel99/City_Traffic_ETL): A robust ETL pipeline that transforms traffic count data into individual vehicle records for analysis and storage in PostgreSQL.
 - [Tomato disease classification](https://github.com/BibekPoudel99/Tomato_Disease_Detection): An intelligent, production-ready machine learning system for detecting and classifying tomato plant diseases using deep learning and advanced image processing. 
 - [FastAPI](https://github.com/BibekPoudel99/fastapi):  A RESTful backend API built with FastAPI for managing users, posts, authentication, and voting.
 Uses Pydantic for validation, JWT Authentication, Alembic for database migration, and ORM-based database access.
