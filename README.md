@@ -28,6 +28,9 @@ I am a passionate Data Enthusiast with a strong interest in data-driven fields a
 
 ## Recent Projects
 
+
+- [FastAPI](https://github.com/BibekPoudel99/fastapi):  A RESTful backend API built with FastAPI for managing users, posts, authentication, and voting.
+Uses Pydantic for validation, JWT Authentication, Alembic for database migration, and ORM-based database access.
 - [Movie_recommendation_system](https://github.com/BibekPoudel99/Movie_recommendation_system): A content-based movie recommendation system built with Python, Pandas, Scikit-learn, NLTK for natural language processing, and Streamlit for web interface, utilizing cosine similarity on movie metadata to suggest personalized film recommendations.
 - [Stock_Visualization](https://github.com/BibekPoudel99/Stock_Visualization): It's a real time visualization of stocks which updates every minutes. It is built by using python and matplot library and alphavantage api key.
 - [REST_API](https://github.com/BibekPoudel99/Rest_API): This project is a REST API built with Express.js a framework of NodeJS and MongoDB, featuring user authentication using JWT (JSON Web Tokens).
@@ -49,8 +52,3 @@ I am a passionate Data Enthusiast with a strong interest in data-driven fields a
 
 [![Personal Website in progress](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BibekPoudel99&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BibekPoudel99&layout=compact&theme=radical)
