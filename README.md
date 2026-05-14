@@ -28,7 +28,7 @@ I am a passionate Data Enthusiast with a strong interest in data-driven fields a
 
 ## Recent Projects
 
--- [Tomato disease classification](https://github.com/BibekPoudel99/Tomato_Disease_Detection):An intelligent, production-ready machine learning system for detecting and classifying tomato plant diseases using deep learning and advanced image processing. 
+- [Tomato disease classification](https://github.com/BibekPoudel99/Tomato_Disease_Detection): An intelligent, production-ready machine learning system for detecting and classifying tomato plant diseases using deep learning and advanced image processing. 
 - [FastAPI](https://github.com/BibekPoudel99/fastapi):  A RESTful backend API built with FastAPI for managing users, posts, authentication, and voting.
 Uses Pydantic for validation, JWT Authentication, Alembic for database migration, and ORM-based database access.
 - [Movie_recommendation_system](https://github.com/BibekPoudel99/Movie_recommendation_system): A content-based movie recommendation system built with Python, Pandas, Scikit-learn, NLTK for natural language processing, and Streamlit for web interface, utilizing cosine similarity on movie metadata to suggest personalized film recommendations.
